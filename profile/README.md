@@ -10,4 +10,4 @@ Go to https://github.com/is-cool-me/register to register your subdomain!
 | [`is-app.tech`](https://is-app.tech) |
 
 ## Social Media
-- [Discord Server]()
+- [Discord Server](https://discord.gg/N8YzrkJxYy)
